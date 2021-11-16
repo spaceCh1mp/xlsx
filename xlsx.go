@@ -13,7 +13,7 @@ import (
 	perr "github.com/pkg/errors"
 	"github.com/unidoc/unioffice/spreadsheet/reference"
 
-	"github.com/spacech1mp/xlsx/pkg/cast"
+	"github.com/spaceCh1mp/xlsx/pkg/cast"
 
 	"github.com/araddon/dateparse"
 

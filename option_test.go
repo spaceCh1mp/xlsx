@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/spacech1mp/xlsx"
+	"github.com/spaceCh1mp/xlsx"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/spacech1mp/xlsx"
+	"github.com/spaceCh1mp/xlsx"
 )
 
 // RegisterTable 注册登记表信息.
