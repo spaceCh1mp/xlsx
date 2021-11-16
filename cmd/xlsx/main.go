@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bingoohuang/xlsx"
+	"github.com/spacech1mp/xlsx"
 	"github.com/unidoc/unioffice/spreadsheet"
 )
 

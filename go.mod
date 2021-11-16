@@ -1,4 +1,4 @@
-module github.com/bingoohuang/xlsx
+module github.com/spacech1mp/xlsx
 
 go 1.12
 
